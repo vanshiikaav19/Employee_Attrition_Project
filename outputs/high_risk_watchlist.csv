@@ -1,0 +1,237 @@
+EmployeeNumber,Department,JobRole,MonthlyIncome,YearsAtCompany,OverTime,JobSatisfaction,Risk_Score,Risk_Percentage,Risk_Level,Retention_Priority
+478,Sales,Sales Representative,2174,3,Yes,2,0.9907549721898699,99.08,High,Priority
+1494,Research & Development,Laboratory Technician,3172,0,Yes,1,0.9903555706436752,99.04,High,Normal
+622,Research & Development,Laboratory Technician,2340,1,Yes,4,0.9885921911529504,98.86,High,Normal
+1273,Sales,Sales Representative,1118,1,Yes,4,0.9858397217761781,98.58,High,Normal
+1487,Sales,Sales Executive,5765,5,No,2,0.9826408142351059,98.26,High,Priority
+614,Sales,Sales Representative,1878,0,Yes,2,0.9795460318399014,97.95,High,Normal
+1968,Sales,Sales Executive,10448,2,Yes,1,0.9712308804561078,97.12,High,Priority
+19,Research & Development,Laboratory Technician,2028,4,Yes,3,0.9704023432879457,97.04,High,Priority
+911,Research & Development,Laboratory Technician,2795,1,Yes,4,0.9699518569757386,97.0,High,Normal
+1108,Research & Development,Research Scientist,2313,2,Yes,2,0.9698055723248363,96.98,High,Normal
+1504,Research & Development,Laboratory Technician,2561,0,No,1,0.9677769736736219,96.78,High,Normal
+1758,Sales,Sales Executive,8564,0,Yes,1,0.9676432237468698,96.76,High,Priority
+1862,Sales,Sales Executive,9907,2,Yes,2,0.9662895610067999,96.63,High,Normal
+167,Sales,Sales Representative,1675,0,Yes,3,0.9655021463023556,96.55,High,Normal
+959,Sales,Sales Representative,2121,1,Yes,2,0.9652298268440316,96.52,High,Normal
+1624,Sales,Sales Representative,1569,0,Yes,4,0.961163466240088,96.12,High,Normal
+1279,Research & Development,Laboratory Technician,2625,2,No,3,0.9601948896109579,96.02,High,Normal
+590,Human Resources,Human Resources,9950,3,Yes,1,0.9581398279052309,95.81,High,Priority
+1439,Sales,Sales Representative,4400,3,No,1,0.9578858203024447,95.79,High,Priority
+1318,Sales,Sales Executive,9094,5,Yes,2,0.9563724599222023,95.64,High,Priority
+1167,Sales,Sales Executive,13758,21,Yes,1,0.9512427857592943,95.12,High,Priority
+1053,Research & Development,Research Scientist,2042,3,Yes,1,0.9498670647158908,94.99,High,Priority
+235,Sales,Sales Representative,2325,0,No,1,0.9493517124756004,94.94,High,Normal
+1464,Research & Development,Laboratory Technician,3722,2,Yes,4,0.9450478312664805,94.5,High,Normal
+2021,Sales,Sales Representative,2380,2,Yes,1,0.9449853285392562,94.5,High,Normal
+64,Research & Development,Laboratory Technician,5381,1,Yes,3,0.9443302551649004,94.43,High,Priority
+1649,Research & Development,Laboratory Technician,2166,4,Yes,1,0.9431089660999954,94.31,High,Priority
+55,Research & Development,Laboratory Technician,2293,1,No,3,0.9420916649285321,94.21,High,Normal
+1844,Human Resources,Human Resources,2335,2,Yes,1,0.9416591758702625,94.17,High,Normal
+960,Research & Development,Laboratory Technician,2973,1,No,1,0.9412595771366389,94.13,High,Normal
+175,Sales,Sales Executive,4559,2,Yes,3,0.9403179876955046,94.03,High,Normal
+1780,Sales,Sales Representative,2679,1,No,2,0.9383333236822782,93.83,High,Normal
+1928,Sales,Sales Representative,1091,1,No,1,0.9381456523505005,93.81,High,Normal
+1319,Sales,Sales Executive,8446,8,Yes,2,0.9373086388930717,93.73,High,Priority
+299,Sales,Sales Executive,6696,6,No,1,0.9350003488137136,93.5,High,Priority
+1331,Sales,Sales Representative,2302,3,Yes,2,0.9342969156503154,93.43,High,Priority
+1944,Human Resources,Human Resources,2863,1,No,2,0.933048606447571,93.3,High,Normal
+514,Research & Development,Research Scientist,2285,1,Yes,4,0.9321719301836244,93.22,High,Normal
+1427,Sales,Sales Representative,1359,1,No,3,0.9317832814657159,93.18,High,Normal
+952,Sales,Sales Representative,2413,1,Yes,2,0.9314485778230123,93.14,High,Normal
+702,Research & Development,Research Scientist,3348,10,Yes,1,0.9274571398751184,92.75,High,Priority
+1077,Sales,Sales Representative,2323,2,Yes,4,0.9263653909793259,92.64,High,Normal
+1752,Sales,Sales Representative,2760,2,No,2,0.9261255177112686,92.61,High,Normal
+485,Sales,Sales Representative,2851,1,Yes,3,0.9233489670302106,92.33,High,Normal
+554,Sales,Sales Representative,3202,5,Yes,2,0.9231541485817122,92.32,High,Priority
+720,Sales,Sales Executive,4577,2,No,3,0.9199082122133774,91.99,High,Normal
+147,Research & Development,Laboratory Technician,6074,9,Yes,3,0.9193556093835145,91.94,High,Priority
+1716,Sales,Sales Executive,12936,23,No,3,0.9176666763022182,91.77,High,Priority
+163,Sales,Sales Executive,6172,7,Yes,3,0.9151752991479859,91.52,High,Priority
+2023,Sales,Sales Representative,1790,1,No,1,0.914226110030247,91.42,High,Normal
+390,Research & Development,Healthcare Representative,4741,5,Yes,1,0.9141594545290231,91.42,High,Priority
+816,Research & Development,Laboratory Technician,2319,1,Yes,1,0.9095609151535285,90.96,High,Normal
+65,Research & Development,Laboratory Technician,3441,2,Yes,3,0.9094181406583158,90.94,High,Normal
+1645,Sales,Sales Executive,5440,2,Yes,4,0.9074444903287948,90.74,High,Normal
+1157,Sales,Sales Executive,8224,5,Yes,1,0.9049533918367219,90.5,High,Priority
+832,Research & Development,Laboratory Technician,5094,1,No,3,0.9046036069023066,90.46,High,Normal
+1868,Research & Development,Research Scientist,2439,1,Yes,4,0.9044487757241345,90.44,High,Normal
+33,Research & Development,Research Scientist,3919,10,Yes,1,0.9038191029474748,90.38,High,Priority
+1019,Research & Development,Laboratory Technician,2451,4,No,1,0.9026731038697072,90.27,High,Priority
+970,Sales,Sales Executive,10609,14,No,3,0.9022468484824729,90.22,High,Priority
+1198,Research & Development,Laboratory Technician,3033,2,No,3,0.9008691490531001,90.09,High,Normal
+1611,Research & Development,Laboratory Technician,5769,10,Yes,1,0.9002336105831685,90.02,High,Priority
+1420,Research & Development,Laboratory Technician,4284,4,No,1,0.896615098878455,89.66,High,Priority
+932,Research & Development,Laboratory Technician,2404,2,Yes,1,0.8965031086141938,89.65,High,Normal
+1,Sales,Sales Executive,5993,6,Yes,4,0.8962335195984127,89.62,High,Priority
+1037,Sales,Sales Executive,4969,2,No,1,0.8960825478956967,89.61,High,Normal
+1767,Research & Development,Research Scientist,2437,1,Yes,3,0.8952749603110463,89.53,High,Normal
+648,Sales,Sales Representative,2033,1,No,1,0.8925811619808993,89.26,High,Normal
+72,Sales,Sales Executive,4157,2,Yes,4,0.8904731427523684,89.05,High,Normal
+261,Research & Development,Manufacturing Director,5916,1,Yes,3,0.890189299581529,89.02,High,Normal
+142,Sales,Sales Executive,5744,6,Yes,3,0.889071359773603,88.91,High,Priority
+1004,Research & Development,Research Scientist,2132,5,Yes,3,0.8873994485565228,88.74,High,Priority
+2010,Research & Development,Laboratory Technician,2837,6,No,2,0.8856125219050002,88.56,High,Priority
+47,Sales,Sales Representative,2683,3,Yes,3,0.8843573750516713,88.44,High,Priority
+1569,Research & Development,Laboratory Technician,2074,1,Yes,1,0.8838376455144022,88.38,High,Normal
+248,Sales,Sales Representative,3140,4,Yes,2,0.8834443459570701,88.34,High,Priority
+401,Sales,Sales Executive,5828,8,Yes,4,0.8818692001981975,88.19,High,Priority
+1188,Sales,Sales Executive,5346,4,No,3,0.8812860036763029,88.13,High,Priority
+819,Sales,Sales Executive,5324,3,No,1,0.8812235514027836,88.12,High,Priority
+1533,Research & Development,Laboratory Technician,2272,4,No,3,0.8799952384374954,88.0,High,Priority
+1286,Research & Development,Laboratory Technician,2154,4,Yes,3,0.8799691007671401,88.0,High,Priority
+1684,Research & Development,Laboratory Technician,3989,5,Yes,3,0.8798796053476806,87.99,High,Priority
+137,Research & Development,Laboratory Technician,2926,1,Yes,4,0.8795842640327466,87.96,High,Normal
+1489,Sales,Sales Executive,4599,15,Yes,2,0.8795516514941464,87.96,High,Priority
+1296,Research & Development,Laboratory Technician,3867,2,Yes,4,0.8783930071315025,87.84,High,Normal
+424,Human Resources,Human Resources,6410,2,No,1,0.8762314637035752,87.62,High,Normal
+355,Research & Development,Laboratory Technician,3479,5,No,2,0.87589052353476,87.59,High,Priority
+783,Sales,Sales Representative,6632,8,No,3,0.8750899222933667,87.51,High,Priority
+1594,Research & Development,Laboratory Technician,5562,3,Yes,1,0.8748187697965928,87.48,High,Priority
+1001,Research & Development,Laboratory Technician,2811,2,No,2,0.8730110615758665,87.3,High,Normal
+1734,Sales,Sales Executive,6735,0,No,2,0.8714605357496534,87.15,High,Normal
+846,Sales,Sales Executive,4779,8,Yes,2,0.8672631781686538,86.73,High,Priority
+669,Sales,Sales Representative,3447,3,No,3,0.8670994544724746,86.71,High,Priority
+1148,Research & Development,Laboratory Technician,4272,1,No,4,0.8660170484846698,86.6,High,Normal
+75,Research & Development,Laboratory Technician,4014,2,Yes,1,0.864945151478595,86.49,High,Normal
+1079,Research & Development,Laboratory Technician,1416,1,No,1,0.8640553307878523,86.41,High,Normal
+785,Sales,Sales Executive,6397,5,Yes,3,0.8618232330808585,86.18,High,Priority
+796,Sales,Sales Executive,5326,4,No,1,0.8608883737086175,86.09,High,Priority
+1975,Sales,Sales Executive,13341,20,No,1,0.8604125163797933,86.04,High,Priority
+608,Human Resources,Human Resources,2741,7,Yes,3,0.8592464267433726,85.92,High,Priority
+1016,Research & Development,Research Scientist,2600,1,Yes,1,0.8573578280174363,85.74,High,Normal
+411,Sales,Sales Representative,1200,0,No,3,0.8550739113480811,85.51,High,Normal
+1158,Research & Development,Laboratory Technician,4766,1,Yes,4,0.8509747829850288,85.1,High,Normal
+2055,Sales,Sales Executive,10854,3,Yes,1,0.8507573888981425,85.08,High,Priority
+1173,Research & Development,Laboratory Technician,3597,4,No,2,0.850506211484801,85.05,High,Priority
+1680,Sales,Sales Representative,2728,2,No,1,0.8492508901863235,84.93,High,Normal
+1650,Sales,Sales Executive,5869,5,No,3,0.8488183225951037,84.88,High,Priority
+502,Sales,Sales Executive,5304,5,Yes,4,0.8462592351625059,84.63,High,Priority
+1604,Research & Development,Laboratory Technician,2408,1,Yes,2,0.8452104393782524,84.52,High,Normal
+593,Research & Development,Laboratory Technician,3894,2,No,3,0.8421249376547282,84.21,High,Normal
+1646,Research & Development,Research Scientist,3760,6,Yes,4,0.8393216041347371,83.93,High,Priority
+1642,Human Resources,Human Resources,5743,10,Yes,4,0.8371859907191271,83.72,High,Priority
+1939,Research & Development,Research Scientist,2432,4,Yes,3,0.8369011128338784,83.69,High,Priority
+331,Research & Development,Laboratory Technician,3730,3,Yes,3,0.836669324695681,83.67,High,Priority
+269,Research & Development,Laboratory Technician,4425,6,No,2,0.8356236554054725,83.56,High,Priority
+394,Research & Development,Laboratory Technician,2373,3,Yes,2,0.8341941846839845,83.42,High,Priority
+1961,Sales,Sales Representative,2858,1,No,1,0.8338172765088026,83.38,High,Normal
+1380,Sales,Sales Executive,4614,4,Yes,3,0.8323964811931026,83.24,High,Priority
+1377,Research & Development,Laboratory Technician,5429,8,No,3,0.8311561725251738,83.12,High,Priority
+436,Sales,Sales Executive,5228,13,Yes,2,0.829749951773502,82.97,High,Priority
+1379,Sales,Sales Representative,2785,1,No,4,0.8286438223727965,82.86,High,Normal
+7,Research & Development,Laboratory Technician,3468,2,No,2,0.8274551802797748,82.75,High,Normal
+1372,Sales,Sales Executive,13695,19,Yes,3,0.8272052579046721,82.72,High,Priority
+741,Research & Development,Research Scientist,2216,7,Yes,2,0.8267580553109865,82.68,High,Priority
+454,Research & Development,Laboratory Technician,2119,7,Yes,1,0.8261506412216629,82.62,High,Priority
+243,Research & Development,Laboratory Technician,1102,1,No,4,0.8212036385656973,82.12,High,Normal
+994,Research & Development,Research Scientist,2404,0,Yes,1,0.8187596164205656,81.88,High,Normal
+467,Sales,Sales Representative,2976,0,No,3,0.8180880959789462,81.81,High,Normal
+918,Research & Development,Laboratory Technician,2380,1,Yes,4,0.8141429399572667,81.41,High,Normal
+475,Sales,Sales Executive,4736,2,Yes,3,0.8138531788719123,81.39,High,Normal
+1549,Research & Development,Laboratory Technician,5207,15,Yes,3,0.812301217074194,81.23,High,Priority
+1299,Research & Development,Laboratory Technician,3339,7,Yes,3,0.811984424637026,81.2,High,Priority
+1017,Research & Development,Laboratory Technician,2422,3,No,2,0.8108824028157842,81.09,High,Priority
+1307,Research & Development,Manager,17123,19,Yes,2,0.8092704224245396,80.93,High,Priority
+732,Sales,Sales Executive,5405,2,No,1,0.8076834737253257,80.77,High,Normal
+1967,Sales,Sales Executive,5617,10,Yes,4,0.8059557147892777,80.6,High,Priority
+1281,Sales,Sales Executive,4538,3,Yes,1,0.8053083787274834,80.53,High,Priority
+1878,Research & Development,Research Scientist,2472,1,Yes,2,0.8049264715537761,80.49,High,Normal
+440,Research & Development,Research Scientist,3464,3,Yes,4,0.804576558629038,80.46,High,Priority
+792,Research & Development,Laboratory Technician,4364,2,No,4,0.803965342785266,80.4,High,Normal
+492,Sales,Sales Executive,6380,6,Yes,3,0.8023541870385932,80.24,High,Priority
+2003,Research & Development,Laboratory Technician,2660,2,Yes,3,0.802313941057078,80.23,High,Normal
+325,Research & Development,Laboratory Technician,2436,5,Yes,4,0.8019133730219415,80.19,High,Priority
+1522,Research & Development,Research Scientist,2362,9,No,1,0.800824529817899,80.08,High,Priority
+1458,Research & Development,Laboratory Technician,3646,1,Yes,1,0.8008023365131255,80.08,High,Normal
+527,Sales,Sales Executive,4487,5,Yes,4,0.8002698278937989,80.03,High,Priority
+282,Research & Development,Healthcare Representative,6673,1,Yes,1,0.8001653693867203,80.02,High,Normal
+1100,Sales,Sales Executive,9582,8,Yes,1,0.7983928428439884,79.84,High,Priority
+896,Sales,Sales Representative,2800,3,Yes,3,0.7972340014617151,79.72,High,Priority
+1111,Research & Development,Laboratory Technician,2596,1,No,2,0.7956187493454081,79.56,High,Normal
+2053,Research & Development,Laboratory Technician,4025,4,Yes,2,0.7924418512467839,79.24,High,Priority
+364,Research & Development,Laboratory Technician,3485,0,No,3,0.7917571725704359,79.18,High,Normal
+991,Research & Development,Research Scientist,2321,3,Yes,1,0.7911687916051512,79.12,High,Priority
+27,Sales,Sales Representative,3407,5,No,1,0.7904735619125335,79.05,High,Priority
+913,Research & Development,Research Scientist,2559,8,Yes,1,0.7865110623001114,78.65,High,Priority
+1350,Research & Development,Research Scientist,4249,9,Yes,3,0.7841910280226424,78.42,High,Priority
+1036,Sales,Sales Executive,6861,1,Yes,4,0.7835957336903342,78.36,High,Normal
+494,Sales,Sales Representative,2716,1,No,2,0.7819377976433319,78.19,High,Normal
+1639,Sales,Sales Executive,10306,13,No,1,0.7817392488493129,78.17,High,Priority
+274,Research & Development,Manufacturing Director,4298,2,No,1,0.78171467995688,78.17,High,Normal
+113,Sales,Sales Representative,2322,0,No,1,0.7798626329423717,77.99,High,Normal
+1916,Research & Development,Laboratory Technician,3978,2,No,3,0.7789091906960479,77.89,High,Normal
+566,Human Resources,Human Resources,2564,1,No,4,0.777700829672686,77.77,High,Normal
+1556,Sales,Sales Representative,2644,3,Yes,4,0.7756157515374587,77.56,High,Priority
+1714,Human Resources,Human Resources,1555,1,No,3,0.7750113218628747,77.5,High,Normal
+190,Research & Development,Laboratory Technician,4200,5,No,1,0.7736153891247728,77.36,High,Priority
+854,Research & Development,Research Scientist,3424,4,No,1,0.7734972556124866,77.35,High,Priority
+1876,Sales,Sales Representative,1081,1,No,4,0.7733551066724533,77.34,High,Normal
+1933,Sales,Sales Executive,9854,2,Yes,3,0.767809881072049,76.78,High,Normal
+2013,Sales,Sales Representative,2269,2,No,2,0.7676707935853387,76.77,High,Normal
+362,Research & Development,Laboratory Technician,2176,6,No,1,0.7669179904368828,76.69,High,Priority
+508,Sales,Sales Representative,2476,1,No,2,0.764708083250892,76.47,High,Normal
+1396,Sales,Sales Executive,4078,3,Yes,2,0.7635063955876707,76.35,High,Priority
+1269,Research & Development,Research Scientist,2994,1,Yes,4,0.7632026109467399,76.32,High,Normal
+1496,Research & Development,Manufacturing Director,10209,2,Yes,3,0.7623867149537992,76.24,High,Priority
+647,Research & Development,Laboratory Technician,2886,6,Yes,3,0.7611139390787611,76.11,High,Priority
+1248,Research & Development,Research Scientist,1859,1,Yes,2,0.7592313372281947,75.92,High,Normal
+205,Sales,Sales Representative,2306,7,Yes,3,0.7576408786832508,75.76,High,Priority
+1551,Research & Development,Laboratory Technician,2296,1,No,1,0.7575509889517009,75.76,High,Normal
+1783,Research & Development,Laboratory Technician,2398,1,Yes,1,0.7565599908497685,75.66,High,Normal
+1702,Sales,Sales Representative,2275,3,Yes,4,0.7561265142555168,75.61,High,Priority
+941,Sales,Sales Representative,2329,7,No,3,0.7546941540703777,75.47,High,Priority
+1735,Research & Development,Laboratory Technician,3295,3,No,2,0.7531371351649323,75.31,High,Priority
+405,Research & Development,Laboratory Technician,1420,0,No,3,0.7531331528052118,75.31,High,Normal
+51,Research & Development,Research Scientist,3419,1,Yes,1,0.7523832672168247,75.24,High,Normal
+1740,Sales,Manager,19833,21,No,2,0.7497379575218587,74.97,High,Priority
+1797,Sales,Sales Executive,5813,10,Yes,4,0.7468582768144657,74.69,High,Priority
+811,Research & Development,Laboratory Technician,1601,0,Yes,1,0.7466378793507248,74.66,High,Normal
+1669,Sales,Sales Executive,4187,10,Yes,2,0.744835897155719,74.48,High,Priority
+587,Research & Development,Healthcare Representative,9824,1,No,3,0.7437446977782491,74.37,High,Priority
+1733,Sales,Sales Executive,6134,2,Yes,1,0.7429760733802706,74.3,High,Normal
+577,Research & Development,Laboratory Technician,4230,5,No,3,0.7425976398985016,74.26,High,Priority
+585,Sales,Sales Representative,2983,3,No,2,0.7424245085259997,74.24,High,Priority
+1614,Research & Development,Manufacturing Director,4663,3,Yes,3,0.7419593482092351,74.2,High,Priority
+1905,Research & Development,Research Scientist,2307,5,Yes,1,0.7419217872830158,74.19,High,Priority
+4,Research & Development,Laboratory Technician,2090,0,Yes,3,0.7412672080909664,74.13,High,Normal
+1083,Research & Development,Laboratory Technician,3955,5,No,1,0.7408919754051084,74.09,High,Priority
+1421,Research & Development,Healthcare Representative,7553,8,Yes,4,0.7397169501473851,73.97,High,Priority
+525,Research & Development,Laboratory Technician,2258,3,No,4,0.7384624982562445,73.85,High,Priority
+927,Research & Development,Laboratory Technician,2778,7,Yes,4,0.7367389929522639,73.67,High,Priority
+803,Research & Development,Manufacturing Director,5980,15,Yes,1,0.7366622220049088,73.67,High,Priority
+238,Research & Development,Laboratory Technician,2088,8,No,2,0.7357646855323488,73.58,High,Priority
+652,Research & Development,Laboratory Technician,3681,3,No,4,0.7351869010545335,73.52,High,Priority
+723,Sales,Sales Executive,6796,4,Yes,3,0.734964721008424,73.5,High,Priority
+1107,Research & Development,Laboratory Technician,2377,1,No,3,0.7345569232163431,73.46,High,Normal
+773,Research & Development,Research Scientist,3057,1,Yes,3,0.7334997035314333,73.35,High,Normal
+922,Sales,Sales Representative,2044,2,No,3,0.7304726120418356,73.05,High,Normal
+1801,Sales,Sales Executive,7991,2,No,2,0.7302530815415715,73.03,High,Normal
+382,Sales,Sales Executive,5605,8,Yes,1,0.7296527435288712,72.97,High,Priority
+1960,Research & Development,Laboratory Technician,2367,4,No,4,0.7291009688270867,72.91,High,Priority
+1125,Sales,Sales Executive,7351,1,No,2,0.7289607153385944,72.9,High,Priority
+954,Sales,Sales Executive,9705,1,No,2,0.7271641832414131,72.72,High,Priority
+746,Sales,Sales Executive,13770,22,Yes,3,0.7260506448783601,72.61,High,Priority
+1835,Sales,Sales Representative,5405,4,Yes,4,0.7253963641418711,72.54,High,Priority
+315,Research & Development,Research Scientist,2389,4,Yes,4,0.7245985087146506,72.46,High,Priority
+1239,Sales,Sales Executive,6852,5,No,2,0.723912488826311,72.39,High,Priority
+1747,Human Resources,Human Resources,2180,4,No,4,0.7214408134322319,72.14,High,Priority
+1675,Research & Development,Laboratory Technician,2440,4,No,2,0.720794650802376,72.08,High,Priority
+79,Research & Development,Laboratory Technician,2406,10,No,4,0.7201939116699252,72.02,High,Priority
+120,Sales,Sales Executive,5441,10,Yes,4,0.7186245799833987,71.86,High,Priority
+1387,Sales,Sales Executive,4724,5,No,1,0.7177150749096399,71.77,High,Priority
+281,Research & Development,Laboratory Technician,2741,7,Yes,4,0.7148217641440179,71.48,High,Priority
+513,Sales,Sales Executive,7596,10,No,3,0.7142122090450098,71.42,High,Priority
+1568,Sales,Sales Executive,9250,4,No,2,0.7137943779743153,71.38,High,Priority
+133,Human Resources,Human Resources,2073,3,Yes,1,0.7106387803127575,71.06,High,Priority
+1535,Sales,Sales Executive,7083,10,Yes,3,0.7106022729579349,71.06,High,Priority
+363,Sales,Manager,16872,7,Yes,2,0.7097461231418442,70.97,High,Priority
+1066,Sales,Sales Executive,8396,7,No,1,0.708880569956453,70.89,High,Priority
+446,Sales,Sales Executive,4682,7,No,4,0.7071233350113622,70.71,High,Priority
+1853,Sales,Sales Executive,4648,0,No,4,0.7066891690553735,70.67,High,Normal
+584,Research & Development,Laboratory Technician,3408,4,No,4,0.7065506180694954,70.66,High,Priority
+618,Sales,Sales Executive,4306,0,No,3,0.7063780946261402,70.64,High,Normal
+104,Research & Development,Laboratory Technician,5126,10,Yes,4,0.7057314667990359,70.57,High,Priority
+392,Research & Development,Laboratory Technician,3161,1,Yes,3,0.7037957239660936,70.38,High,Normal
+1014,Research & Development,Healthcare Representative,10388,16,Yes,3,0.7022480015999267,70.22,High,Priority
+1226,Sales,Sales Representative,2678,2,No,4,0.7011629850086759,70.12,High,Normal
